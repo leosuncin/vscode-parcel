@@ -1,5 +1,7 @@
 # VSCode Parcel Bundler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leosuncin/vscode-parcel.svg)](https://greenkeeper.io/)
+
 > Create project and run it with zero config
 
 This is the README for your extension "vscode-parcel". After writing up a brief description, we recommend including the following sections.
