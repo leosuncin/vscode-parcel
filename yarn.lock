@@ -47,10 +47,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-13.1.8.tgz#1d590429fe8187a02707720ecf38a6fe46ce294b"
   integrity sha512-6XzyyNM9EKQW4HKuzbo/CkOIjn/evtCmsU+MUM1xDfJ+3/rNjBttM1NgN7AOQvN6tP1Sl1D1PIKMreTArnxM9A==
 
-"@types/vscode@^1.36.0":
-  version "1.36.0"
-  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.36.0.tgz#ae60242e893d9eda9a0d96d51ef56f1a3fae14ed"
-  integrity sha512-SbHR3Q5g/C3N+Ila3KrRf1rSZiyHxWdOZ7X3yFHXzw6HrvRLuVZrxnwEX0lTBMRpH9LkwZdqRTgXW+D075jxkg==
+"@types/vscode@^1.41.0":
+  version "1.41.0"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.41.0.tgz#b0d75920220f84e07093285e59180c0f11d336cd"
+  integrity sha512-7SfeY5u9jgiELwxyLB3z7l6l/GbN9CqpCQGkcRlB7tKRFBxzbz2PoBfGrLxI1vRfUCIq5+hg5vtDHExwq5j3+A==
 
 agent-base@4, agent-base@^4.3.0:
   version "4.3.0"
