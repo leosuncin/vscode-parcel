@@ -47,9 +47,9 @@
   integrity sha512-4nhBPStMK04rruRVtVc6cDqhu7S9GZai0fpXgPXrFpcPX6Xul8xnrjSdGB4KPBVYG/R5+fXWdCM8qBoiULWGPQ==
 
 "@types/vscode@^1.41.0":
-  version "1.52.0"
-  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.52.0.tgz#61917968dd403932127fc4004a21fd8d69e4f61c"
-  integrity sha512-Kt3bvWzAvvF/WH9YEcrCICDp0Z7aHhJGhLJ1BxeyNP6yRjonWqWnAIh35/pXAjswAnWOABrYlF7SwXR9+1nnLA==
+  version "1.58.1"
+  resolved "https://registry.yarnpkg.com/@types/vscode/-/vscode-1.58.1.tgz#7deae08792adc73fa57383244a0c79d3530df4f7"
+  integrity sha512-sa76rDXiSif09he8KoaWWUQxsuBr2+uND0xn1GUbEODkuEjp2p7Rqd3t5qlvklfmAedLFdL7MdnsPa57uzwcOw==
 
 agent-base@6:
   version "6.0.2"
